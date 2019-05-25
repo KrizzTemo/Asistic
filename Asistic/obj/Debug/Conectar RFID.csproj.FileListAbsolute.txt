@@ -1,0 +1,29 @@
+C:\Users\Andres Gomez\source\repos\Conectar RFID\bin\Debug\Conectar RFID.exe.config
+C:\Users\Andres Gomez\source\repos\Conectar RFID\bin\Debug\Conectar RFID.exe
+C:\Users\Andres Gomez\source\repos\Conectar RFID\bin\Debug\Conectar RFID.pdb
+C:\Users\Andres Gomez\source\repos\Conectar RFID\obj\Debug\Conectar RFID.csprojAssemblyReference.cache
+C:\Users\Andres Gomez\source\repos\Conectar RFID\obj\Debug\Conectar_RFID.Form1.resources
+C:\Users\Andres Gomez\source\repos\Conectar RFID\obj\Debug\Conectar_RFID.Properties.Resources.resources
+C:\Users\Andres Gomez\source\repos\Conectar RFID\obj\Debug\Conectar RFID.csproj.GenerateResource.cache
+C:\Users\Andres Gomez\source\repos\Conectar RFID\obj\Debug\Conectar RFID.csproj.CoreCompileInputs.cache
+C:\Users\Andres Gomez\source\repos\Conectar RFID\obj\Debug\Conectar RFID.exe
+C:\Users\Andres Gomez\source\repos\Conectar RFID\obj\Debug\Conectar RFID.pdb
+J:\Conectar RFID\bin\Debug\Conectar RFID.exe.config
+J:\Conectar RFID\obj\Debug\Conectar RFID.exe
+J:\Conectar RFID\obj\Debug\Conectar RFID.pdb
+J:\Conectar RFID\bin\Debug\Conectar RFID.exe
+J:\Conectar RFID\bin\Debug\Conectar RFID.pdb
+J:\Conectar RFID\obj\Debug\Conectar RFID.csprojResolveAssemblyReference.cache
+J:\Conectar RFID\obj\Debug\Conectar_RFID.Form1.resources
+J:\Conectar RFID\obj\Debug\Conectar_RFID.Properties.Resources.resources
+J:\Conectar RFID\obj\Debug\Conectar RFID.csproj.GenerateResource.Cache
+D:\Conectar RFID\bin\Debug\Conectar RFID.exe.config
+D:\Conectar RFID\bin\Debug\Conectar RFID.exe
+D:\Conectar RFID\bin\Debug\Conectar RFID.pdb
+D:\Conectar RFID\obj\Debug\Conectar RFID.csprojAssemblyReference.cache
+D:\Conectar RFID\obj\Debug\Conectar_RFID.Form1.resources
+D:\Conectar RFID\obj\Debug\Conectar_RFID.Properties.Resources.resources
+D:\Conectar RFID\obj\Debug\Conectar RFID.csproj.GenerateResource.cache
+D:\Conectar RFID\obj\Debug\Conectar RFID.csproj.CoreCompileInputs.cache
+D:\Conectar RFID\obj\Debug\Conectar RFID.exe
+D:\Conectar RFID\obj\Debug\Conectar RFID.pdb
